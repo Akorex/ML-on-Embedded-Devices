@@ -1,5 +1,6 @@
 #include "NeuralNetwork.h"
 #include "sine_model.h"
+#include "TensorFlowLite_ESP32.h"
 #include "tensorflow/lite/micro/micro_interpreter.h"
 #include "tensorflow/lite/micro/micro_error_reporter.h"
 #include "tensorflow/lite/micro/all_ops_resolver.h"
