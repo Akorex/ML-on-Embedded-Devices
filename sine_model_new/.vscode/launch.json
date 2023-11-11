@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Owner/Documents/Programming files/python/ml on embedded devices",
-      "program": "c:/Users/Owner/Documents/Programming files/python/ml on embedded devices/build/Debug/outDebug",
+      "cwd": "c:/Users/Owner/Documents/Programming files/python/ml on embedded devices/sine_model_new",
+      "program": "c:/Users/Owner/Documents/Programming files/python/ml on embedded devices/sine_model_new/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
