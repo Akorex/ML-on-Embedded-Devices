@@ -10,3 +10,4 @@ Useful Resource
 4. [TFLite operator compatibility](https://www.tensorflow.org/lite/guide/ops_compatibility)
 5. [ML with Arduino](https://blog.tensorflow.org/2019/11/how-to-get-started-with-machine.html)
 6. [ML with microcontrollers](https://www.tensorflow.org/lite/microcontrollers/get_started_low_level)
+7. [Quantize with TensorFlow](https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/)
